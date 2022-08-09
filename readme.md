@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Nodirbek Nabiev</h1>
+<h3 align="center">A passionate back-end developer from Tashkent</h3>
+
+<br>
+
 - 📫 How to reach me **nodirbeknabiev98@gmail.com**
 
 <table>
