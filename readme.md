@@ -1,24 +1,18 @@
 - 📫 How to reach me **nodirbeknabiev98@gmail.com**
 
-
-
-
-
-
-
-<table class="pure-table">
+<table>
     <thead>
         <tr>
             <th>#</th>
-            <th><h2 align="left">BACK END </h2></th>
-            <th><h2 align="left">FRONT END</h2></th>
+            <th><h2 >BACK END </h2></th>
+            <th><h2 >FRONT END</h2></th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><h3 align="left">Languages:</h3></td>
+            <td><h3 >Languages:</h3></td>
             <td>
-              <p align="left"> 
+              <p > 
                 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
                 </a> 
@@ -31,7 +25,7 @@
             </p>
             </td>
             <td>
-                <p align="left">
+                <p >
                   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
                   </a> 
@@ -48,16 +42,16 @@
             </td>
         </tr>
         <tr>
-            <td><h3 align="left">Frameworks/Libraries:</h3></td>
+            <td><h3 >Frameworks/Libraries:</h3></td>
             <td>
-                <p align="left"> 
+                <p > 
                     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
                     </a> 
                </p>
             </td>
             <td>
-                <p align="left">
+                <p >
                    <a href="https://angular.io" target="_blank" rel="noreferrer"> 
                     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
                   </a> 
@@ -72,10 +66,10 @@
         </tr>
         <tr>
             <td>
-                <h3 align="left">DBMSs:</h3>
+                <h3 >DBMSs:</h3>
             </td>
             <td>
-                <p align="left"> 
+                <p > 
                   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
                   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
                 </a> 
@@ -85,25 +79,19 @@
             </td>
             <td></td>
         </tr>
-        
-         <tr>
-            <td>
-                <h3 align="left">Version Control System:</h3>
-            </td>
-            <td>
-            
-              <p align="left"> 
+        <tr>
+            <td><h3>Version Control System:</h3></td>
+            <td><p> 
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
                   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
                 </a>
-              </p>
-                
-            </td>
+              </p></td>
             <td></td>
         </tr>
     </tbody>
 </table>
-<br>
+
+
 
 
 
