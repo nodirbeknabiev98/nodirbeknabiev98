@@ -1,8 +1,6 @@
 - 📫 How to reach me **nodirbeknabiev98@gmail.com**
 
 <h2 align="left">FRONT END</h2>
-<br>
-
 <h3 align="left">Languages:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -36,10 +34,7 @@
 <br>
 
 <h2 align="left">BACK END </h2>
-<br>
-
 <h3 align="left">Languages:</h3>
-
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
