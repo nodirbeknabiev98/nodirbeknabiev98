@@ -17,7 +17,7 @@
    </a>
 </p>
 
-<h3 align="left">Libraries/Frameworks:</h3>
+<h3 align="left">Frameworks/Libraries:</h3>
 <p align="left">
    <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
@@ -30,7 +30,6 @@
   </a>
 </p>
 
-<br>
 <br>
 
 <h2 align="left">BACK END </h2>
@@ -50,7 +49,7 @@
   </a> 
 </p>
 
-<h3 align="left">Libraries/Frameworks:</h3>
+<h3 align="left">Frameworks/Libraries:</h3>
 <p align="left"> 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
