@@ -4,8 +4,8 @@
     <thead>
         <tr>
             <th>#</th>
-            <th><h2 >BACK END </h2></th>
-            <th><h2 >FRONT END</h2></th>
+            <th><h3 >BACK END </h3></th>
+            <th><h3 >FRONT END</h3></th>
         </tr>
     </thead>
     <tbody>
